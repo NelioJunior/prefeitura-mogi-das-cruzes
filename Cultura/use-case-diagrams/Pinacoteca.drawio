@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T19:24:25.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="WLnuMSiseefE_-BNMj7l" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T19:29:44.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="QLy96MagQLxF6cErz1C_" version="21.1.2" type="github">
   <diagram name="Página-1" id="rkHG6nmuOjkpt8-TUzvK">
     <mxGraphModel dx="794" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IfJ1QCMbeDYxTQooLl67-22" value="Alterar Obra" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="300" y="380" width="96" height="70" as="geometry" />
+          <mxGeometry x="230" y="390" width="96" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IfJ1QCMbeDYxTQooLl67-23" value="Excluir Obra" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="470" width="140" height="70" as="geometry" />
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IfJ1QCMbeDYxTQooLl67-27" value="Consultar Obra" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="550" width="140" height="70" as="geometry" />
+          <mxGeometry x="450" y="550" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IfJ1QCMbeDYxTQooLl67-28" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfJ1QCMbeDYxTQooLl67-20" target="IfJ1QCMbeDYxTQooLl67-27" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IfJ1QCMbeDYxTQooLl67-29" value="Logar" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="366" y="630" width="96" height="70" as="geometry" />
+          <mxGeometry x="318" y="600" width="96" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IfJ1QCMbeDYxTQooLl67-30" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IfJ1QCMbeDYxTQooLl67-20" target="IfJ1QCMbeDYxTQooLl67-29" edge="1">
           <mxGeometry x="0.1908" y="2" width="160" relative="1" as="geometry">
@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wij2fwvLNDSAadiZDPul-1" value="Consutar&lt;br&gt;curriculo do&lt;br&gt;artista" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="350" width="120" height="70" as="geometry" />
+          <mxGeometry x="480" y="390" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Wij2fwvLNDSAadiZDPul-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Wij2fwvLNDSAadiZDPul-1" source="IfJ1QCMbeDYxTQooLl67-19">
           <mxGeometry x="0.0819" y="3" width="160" relative="1" as="geometry">
@@ -81,6 +81,16 @@
             <mxPoint x="480" y="496.5" as="sourcePoint" />
             <mxPoint x="681" y="453.5" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wij2fwvLNDSAadiZDPul-8" value="Consutar&lt;br&gt;portifólio do&amp;nbsp;&lt;br&gt;artista" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Wij2fwvLNDSAadiZDPul-9" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.667;exitY=0.088;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Wij2fwvLNDSAadiZDPul-1" target="Wij2fwvLNDSAadiZDPul-8">
+          <mxGeometry x="-0.608" y="9" width="160" relative="1" as="geometry">
+            <mxPoint x="456" y="270" as="sourcePoint" />
+            <mxPoint x="610" y="325" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
