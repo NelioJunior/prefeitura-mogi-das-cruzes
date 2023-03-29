@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T18:39:47.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="0s8xlEyyJISiQpV82K94" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T18:43:54.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="_J0TxNcd1weQ8-IswjdC" version="21.1.2" type="github">
   <diagram name="Página-1" id="rkHG6nmuOjkpt8-TUzvK">
     <mxGraphModel dx="794" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
             <mxPoint x="75" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IfJ1QCMbeDYxTQooLl67-8" value="Consultar&lt;br&gt;Tipos &lt;br&gt;de&lt;br&gt;Categoria" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IfJ1QCMbeDYxTQooLl67-8" value="Consultar&lt;br&gt;Tipo&amp;nbsp;de&lt;br&gt;Categoria" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="230" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IfJ1QCMbeDYxTQooLl67-9" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XnEvQe8ai3ZGjiJY6H-x-2" target="IfJ1QCMbeDYxTQooLl67-8">
