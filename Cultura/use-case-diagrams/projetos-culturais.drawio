@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T19:23:54.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="jWHl2VojmlADT19mOSRz" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T19:30:11.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="Ik5dyDJcTWYhQrF5Cplq" version="21.1.2" type="github">
   <diagram name="Página-1" id="rkHG6nmuOjkpt8-TUzvK">
-    <mxGraphModel dx="2688" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3033" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,57 +8,57 @@
           <mxGeometry x="-1609" y="30" width="329" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ASfWBYzMuZ3_pJoTGtA6-18" value="Casos de&amp;nbsp; uso Obra do Artista" style="shape=rect;html=1;verticalAlign=top;fontStyle=1;whiteSpace=wrap;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="-1476" y="180" width="637" height="280" as="geometry" />
+          <mxGeometry x="-1490" y="240" width="637" height="280" as="geometry" />
         </mxCell>
         <mxCell id="ASfWBYzMuZ3_pJoTGtA6-19" value="Incluir Obra" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-1346" y="225" width="90" height="50" as="geometry" />
+          <mxGeometry x="-1360" y="285" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ASfWBYzMuZ3_pJoTGtA6-20" value="Curador&lt;br&gt;ou&amp;nbsp;&lt;br&gt;Artista&lt;br&gt;" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-1616" y="335" width="30" height="60" as="geometry" />
+        <mxCell id="ASfWBYzMuZ3_pJoTGtA6-20" value="Curador" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-1630" y="395" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ASfWBYzMuZ3_pJoTGtA6-21" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.744;exitY=0.472;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ASfWBYzMuZ3_pJoTGtA6-20" target="ASfWBYzMuZ3_pJoTGtA6-19" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-1545" y="285" as="sourcePoint" />
-            <mxPoint x="-1385" y="285" as="targetPoint" />
+            <mxPoint x="-1559" y="345" as="sourcePoint" />
+            <mxPoint x="-1399" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ASfWBYzMuZ3_pJoTGtA6-22" value="Alterar&lt;br&gt;Obra" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-1031" y="200" width="76" height="50" as="geometry" />
+          <mxGeometry x="-1045" y="260" width="76" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ASfWBYzMuZ3_pJoTGtA6-23" value="Excluir &lt;br&gt;Obra" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-1086" y="290" width="90" height="50" as="geometry" />
+          <mxGeometry x="-1100" y="350" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ASfWBYzMuZ3_pJoTGtA6-24" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.714;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ASfWBYzMuZ3_pJoTGtA6-20" target="ASfWBYzMuZ3_pJoTGtA6-22" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-1535" y="364.5" as="sourcePoint" />
-            <mxPoint x="-1375" y="364.5" as="targetPoint" />
+            <mxPoint x="-1549" y="424.5" as="sourcePoint" />
+            <mxPoint x="-1389" y="424.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ASfWBYzMuZ3_pJoTGtA6-25" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;exitX=0.744;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ASfWBYzMuZ3_pJoTGtA6-20" target="ASfWBYzMuZ3_pJoTGtA6-23" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-1525" y="434.5" as="sourcePoint" />
-            <mxPoint x="-1305" y="395" as="targetPoint" />
+            <mxPoint x="-1539" y="494.5" as="sourcePoint" />
+            <mxPoint x="-1319" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ASfWBYzMuZ3_pJoTGtA6-26" value="Consultar&amp;nbsp;&lt;br&gt;Obra" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-953" y="340" width="87" height="50" as="geometry" />
+          <mxGeometry x="-967" y="400" width="87" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ASfWBYzMuZ3_pJoTGtA6-27" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ASfWBYzMuZ3_pJoTGtA6-20" target="ASfWBYzMuZ3_pJoTGtA6-26" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-1585" y="375" as="sourcePoint" />
-            <mxPoint x="-1265" y="390" as="targetPoint" />
+            <mxPoint x="-1599" y="435" as="sourcePoint" />
+            <mxPoint x="-1279" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ASfWBYzMuZ3_pJoTGtA6-31" value="O cadastro das obras&lt;br&gt;do artista contempla&amp;nbsp;&lt;br&gt;informações como&lt;br&gt;fotos e exposições que&amp;nbsp;&lt;br&gt;o artista realizou" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1640" y="190" width="160" height="120" as="geometry" />
+        <mxCell id="ASfWBYzMuZ3_pJoTGtA6-31" value="O cadastro de projetos cuturais&amp;nbsp;&lt;br&gt;contempla varias atividades como Hip-Hop, DJ,&lt;br&gt;grafite, circo, dança, artes cênicas e teatro" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-1600" y="100" width="276" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3tUGsa792b6qpTHUfkvz-3" value="Logar" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-1276" y="410" width="60" height="40" as="geometry" />
+          <mxGeometry x="-1290" y="470" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3tUGsa792b6qpTHUfkvz-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ASfWBYzMuZ3_pJoTGtA6-20" target="3tUGsa792b6qpTHUfkvz-3" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-1450" y="390" as="sourcePoint" />
-            <mxPoint x="-1290" y="390" as="targetPoint" />
+            <mxPoint x="-1464" y="450" as="sourcePoint" />
+            <mxPoint x="-1304" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
