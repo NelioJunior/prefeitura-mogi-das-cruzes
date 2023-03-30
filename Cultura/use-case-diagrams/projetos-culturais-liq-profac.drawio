@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T22:49:33.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="UfmTZbXSTLR4T8q3rjy9" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T22:49:49.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="QBsIHaMcVcEwZSa96Dgy" version="21.1.2" type="github">
   <diagram name="Página-1" id="rkHG6nmuOjkpt8-TUzvK">
     <mxGraphModel dx="3722" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="-1150" y="360" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ASfWBYzMuZ3_pJoTGtA6-31" value="O fluxo do diagrama de caso de uso &quot;Avaliar Projetos&quot; inicial após o aprovador logar no sistema e clicar em qualquer dos botões&amp;nbsp; &quot;Area do&amp;nbsp; administrador&quot;, &quot;Gestão&quot;, &quot;Finanças&quot;, &quot;Agenda e Eventos&quot; , &quot;Mapeamento e cadastro de artistas e profissionais de arte, cultura e turismo&quot;, &quot;Lei Audir Blank&quot; , &quot;LIC&quot; , acessado dos pelo link painel/sistemas.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;Aqui esta sendo considerado que quando é avaliado o projeto significa que o aprovador ira aprovar ou reprovar este." style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-1575" y="100" width="700" height="110" as="geometry" />
+          <mxGeometry x="-1600" y="100" width="725" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8yAerhRt3FJ0ebHKItId-1" value="Reprovar&lt;br&gt;Projeto" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-1380" y="590" width="123" height="60" as="geometry" />
