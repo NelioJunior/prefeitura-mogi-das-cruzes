@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T18:20:07.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="4tmvgpzY1giaLx4G_QnD" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T18:20:45.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="t4LGsI9HG2SOOYvx48hb" version="21.1.2" type="github">
   <diagram name="Página-1" id="rkHG6nmuOjkpt8-TUzvK">
     <mxGraphModel dx="2688" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="ASfWBYzMuZ3_pJoTGtA6-4" value="Incluir Curriculo" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-1400" y="580" width="80" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="ASfWBYzMuZ3_pJoTGtA6-5" value="Curador&amp;nbsp;&lt;br&gt;ou artista" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="ASfWBYzMuZ3_pJoTGtA6-5" value="Artista" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="-1635" y="678" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ASfWBYzMuZ3_pJoTGtA6-6" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.744;exitY=0.472;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ASfWBYzMuZ3_pJoTGtA6-5" target="ASfWBYzMuZ3_pJoTGtA6-4" edge="1">
