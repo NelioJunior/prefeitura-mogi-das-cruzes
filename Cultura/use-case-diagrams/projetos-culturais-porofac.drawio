@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T21:41:19.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="3BmvQv4vGrSmDTyw6MO6" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T21:44:29.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="tgcOwOIY2Eu8qMjvqY6P" version="21.1.2" type="github">
   <diagram name="Página-1" id="rkHG6nmuOjkpt8-TUzvK">
     <mxGraphModel dx="3515" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
             <mxPoint x="-1247" y="363" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8yAerhRt3FJ0ebHKItId-5" value="Consulta&amp;nbsp;&lt;br&gt;Legislação" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+        <mxCell id="8yAerhRt3FJ0ebHKItId-5" value="Consultar&amp;nbsp;&lt;br&gt;Legislação" style="ellipse;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-1210" y="300" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8yAerhRt3FJ0ebHKItId-6" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.522;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ASfWBYzMuZ3_pJoTGtA6-20" target="8yAerhRt3FJ0ebHKItId-5" edge="1">
